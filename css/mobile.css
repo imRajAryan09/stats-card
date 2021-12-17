@@ -10,6 +10,7 @@
 	.box {
 		width: 300px;
 		height: 550px;
+		flex-direction: column-reverse;
 	}
 
 	.text-sec {
@@ -17,8 +18,9 @@
 		padding: 15px;
 	}
 
-	.text-sec p {
-		padding: 5px;
+	.sub-heading p {
+		padding-left: 5px;
+		padding-right: 5px;
 	}
 
 	.main-img img {
@@ -46,6 +48,7 @@
 
 	.table {
 		margin-right: 0px;
+		margin-bottom: 15px;
 	}
 
 	.element{
