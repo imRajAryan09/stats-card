@@ -87,9 +87,9 @@ body {
 }
 
 .main-img img {
-	border-radius: 0px 8px 8px 0px;
 	width: 540px;
 	height: 450px;
+	border-radius: 0px 8px 8px 0px;
 }
 
 .hover-card {
